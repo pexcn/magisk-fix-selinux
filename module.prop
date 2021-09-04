@@ -1,6 +1,6 @@
-id=fix-selinux
-name=Fix SELinux
+id=sepolicy-fixer
+name=Sepolicy Fixer
 version=11
 versionCode=1
 author=pexcn
-description=Fix SELinux permissions for OxygenOS on OnePlus 8T.
+description=Fix sepolicy for OxygenOS on OnePlus 8T.
